@@ -6,7 +6,7 @@
   "description": "Convert a string to a snake case.",
   "keywords": ["snake", "case", "snakecase", "string"],
   "dependencies": {
-    "treetopllc/to-space-case": "1.0.0"
+    "treetopllc/to-space-case": "master"
   },
   "development": {
     "component/assert": "*"
